@@ -1,0 +1,19 @@
+		
+
+Every software has specific goals and serves particular purposes. Each goal and purpose translates a process or several processes that the software aims to solve or to automate. To deliver the right software product, we should define well the software from the beginning. System requirement specification or SRS frameworks software development, it documents every operation and dictates how software should behave, it can be as detailed as what a button should do and should be as complete and correct as possible. The purpose of a specification document is to describe the behavior as well as the different functionalities of an application or software in a specific environment.
+
+
+IEEE:
+	Its Document format has too many specifications which can be integrated
+	and an abstract model would suffice the requirements.
+	Safety requirements and Business rules may be omitted comsidering the scope of the project.
+
+TCS:
+	SRS of TCS also has many specifications like Module Testing,Software Testing,Integrated HW and SW Testing,
+	Subsystem Commissioning and Integration,Software handover.
+	The importance of Software Safety can be reduced as mentioned in the document.
+
+Infosys:
+	The SRS of Infosys suits my project except for the Communicatoin interface.
+	An additional field of description about the project can be added to make it interactive
+
